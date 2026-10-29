@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "io.github.bobypn01_star.twa",
-        "sha256_cert_fingerprints": ["FE:F6:ED:6D:FD:E9:6D:8A:8E:6B:11:AA:70:A7:39:BE:27:DA:DE:58:8F:05:6D:B9:A6:E8:2D:AF:52:81:F3:6B"]
+        "sha256_cert_fingerprints": ["78:F2:81:47:70:90:DE:61:C7:78:25:2C:FE:9D:19:FB:C1:F5:7C:68:8B:22:19:7A:2B:5A:D3:E1:CF:5E:FB:27"]
       }
     }]
